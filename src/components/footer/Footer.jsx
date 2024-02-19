@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div className={styles.container}>
       <div>
-        ©️ 2021 KBlogs akk right reserved
+        ©️ 2069 KBlogs akk right reserved
       </div>
       <div className={styles.imageContainer} >
         <Image src="/1.png" width={15} height={15} className={styles.icons} alt='fb' />
